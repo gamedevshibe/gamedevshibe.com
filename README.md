@@ -1,4 +1,4 @@
-# Hello world
+# Coming Soon!
 
 This is where content for Gamedev Shibe will live.
 
